@@ -1,3 +1,5 @@
+# DEPRECATED: USE raphiniert-com's version for latest.
+
 # PostgREST Data Provider For React-Admin
 
 PostgREST Data Provider for [react-admin](https://github.com/marmelab/react-admin), the frontend framework for building admin applications on top of REST/GraphQL services.
